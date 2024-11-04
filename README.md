@@ -3,9 +3,10 @@
 ## How to setup and run the project?
 
 ### 1. Setup
-I provided some images, go to Run/Debug Configuration, after More Actions ->Edit and fill the fields.[Alt text](ProtocolKotlin/images/client_and_server_setup1.png)
-[Alt text](ProtocolKotlin/images/client_and_server_setup2.png)
-[Alt text](ProtocolKotlin/images/client_and_server_setup3.png)
+I provided some images, go to Run/Debug Configuration, after More Actions ->Edit and fill the fields.
+![Alt text](ProtocolKotlin/images/client_and_server_setup1.png)
+![Alt text](ProtocolKotlin/images/client_and_server_setup2.png)
+![Alt text](ProtocolKotlin/images/client_and_server_setup3.png)
 
 ### 2. Run
 Go to Run/Debug Configuration, select the server and run it, then run the client.
