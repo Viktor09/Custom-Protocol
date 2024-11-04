@@ -4,9 +4,9 @@
 
 ### 1. Setup
 I provided some images, go to Run/Debug Configuration, after More Actions ->Edit and fill the fields.
-[Alt text](/blob/main/ProtocolKotlin/images/client_and_server_setup1.png)
-[Alt text](/blob/main/ProtocolKotlin/images/client_and_server_setup2.png)
-[Alt text](/blob/main/ProtocolKotlin/images/client_and_server_setup3.png)
+[Alt text](/Custom-Protocol/blob/main/ProtocolKotlin/images/client_and_server_setup1.png)
+[Alt text](/Custom-Protocol/blob/main/ProtocolKotlin/images/client_and_server_setup2.png)
+[Alt text](/Custom-Protocol/blob/main/ProtocolKotlin/images/client_and_server_setup3.png)
 
 ### 2. Run
 Go to Run/Debug Configuration, select the server and run it, then run the client.
